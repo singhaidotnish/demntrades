@@ -1,0 +1,2 @@
+# demntrades
+strategies to study
